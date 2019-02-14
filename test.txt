@@ -1,4 +1,4 @@
 this is just a test
 
-A
+
 this is another line.
